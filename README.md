@@ -8,7 +8,7 @@ Install with npm: `npm i collatzgen`
 
 Import:
 
-```
+```javascript
 // Import every function
 import { collatz, next } from "./src/index.js"
 
