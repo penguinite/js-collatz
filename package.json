@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "name": "collatzgen",
+  "name": "collatzy",
   "version": "1.0.0",
   "description": "A simple collatz conjecture calculator",
   "main": "src/index.js",

@@ -1,4 +1,4 @@
-# collatz
+# collatzy
 
 A simple collatz conjecture calculator for Javascript.
 
@@ -10,7 +10,7 @@ Import:
 
 ```javascript
 // Import every function
-import { collatz, next } from "./src/index.js"
+import { collatz, next } from "collatzy"
 
 // Calculate collatz conjecture of 13
 // This returns an array containing every number in order.

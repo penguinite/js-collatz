@@ -1,4 +1,4 @@
-import { collatz, next } from "./src/index.js"
+import {collatz, next} from './src/index.js'
 
 function testCollatz(num,arr) {
   if (collatz(num).toString() != arr.toString()) {
